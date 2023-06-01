@@ -1,0 +1,13 @@
+Platform Wait Time,Line ID,Average Time
+Bakerloo,1,0.63
+Central,2,0.98
+Waterloo & City,12,1.19
+Circle,3,1.61
+Hammersmith,6,1.61
+District,4,1.05
+Jubilee,7,0.45
+Metropolitan,8,0.72
+Northern,9,0.65
+Piccadilly,10,1.02
+Victoria,11,0.52
+East London Line,5,1.17

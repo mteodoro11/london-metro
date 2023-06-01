@@ -1,0 +1,64 @@
+Station,Average Time
+Acton Town,2
+Aldgate,4
+Aldgate East,2
+Amersham,3
+Baker Street,6.75
+Bank,6.39
+Barking,4
+Barons Court,4
+Bayswater,4
+Bond Street,4	
+Bow Road,2	
+Bromley-By-Bow,4
+Charing Cross,7	
+Ealing Broadway,4	
+Ealing Common,4	
+Eastcote,4	
+East Ham,4	
+Embankment,4.83	
+Euston Square,2	
+Farringdon,4		
+Finchley Road,3	
+Finsbury Park,4		
+Gloucester Road,6	
+Great Portland Street,4	
+Green Park,4.67	
+Heathrow Terminal,4				
+High Street Kensington,4		
+Hillingdon,4		
+Holborn,6	
+Ickenham,4
+Ladbroke Grove,4		
+Latimer Road,4		
+Leicester Square,4
+Mansion House,4	
+Monument,6.15
+Notting Hill Gate,4
+Oxford Circus,4	
+Picadilly Circus,3
+Plaistow,4		
+Rayners Lane,4		
+Royal Oak,2	
+Ruislip,3	
+Ruislip Manor,4	
+Sloane Square,5		
+South Kensington,2		
+Stepney Green,4	
+Stockwell,3		
+Temple,4		
+Tottenham Court Road,4		
+Tower Hill,2	
+Turnham Green,4		
+Upton Park,4
+Uxbridge,1	
+Victoria,8
+Warren Street,6
+Waterloo,5.33
+Wembley Central,5	
+Wembley Park,4	
+Westbourne Park,4
+West Brompton,5
+West Ham,5	
+Westminster,5.33
+Whitechapel,2
