@@ -1,5 +1,5 @@
 # london-metro
-Project developed within the context of the Data Structures and Algorithms class at Iscte.
+Project developed within the context of the Data Structures and Algorithms class at Iscte back in 2020.
 
 This project is based on the structure of the London Subway and has two parts:
 
